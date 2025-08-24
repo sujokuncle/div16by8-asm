@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executable / output files
+*.out
+*.exe
+*.bin
+*.elf
+
+# Debug files
+*.dvi
+*.map
+
